@@ -8,7 +8,7 @@ namespace EzequielQuispe
         static void Main(string[] args)
         {
             Tarea tarea = new Tarea();
-            tarea.Ejercicio_5();
+            tarea.Ejercicio_1();
             /*
             tarea.Ejercicio_2();
             tarea.Ejercicio_3();
@@ -97,37 +97,29 @@ namespace EzequielQuispe
 
         public void Ejercicio_6()
         {
-            int a = 5;
-            int b = ++a;
-            int c = a++;
-
-            Console.WriteLine("b: " + b + "\nc: " + c);
-
+            int a, b, c;
+            a = 5;
+            b = ++a;
+            c = a++;
             b = b * 5;
             a = a * 2;
 
-            Console.WriteLine("b: " + b + "\na: " + a);
+            Console.WriteLine($"a = {a} \nb = {b} \nc = {c}");
             Console.ReadLine();
         }
 
         public void Ejercicio_7()
         {
-            int a = 5;
-            int b = a + 2;
-            int c = -3;
-
-            Console.WriteLine("b: " + b);
-
+            int a, b, c;
+            a = 5;
+            b = a + 2;
+            c = -3;
             b -= 3;
             c *= 2;
-
-
-            Console.WriteLine("b: " + b + "\nc: " + c);
-
             ++c;
             a *= b;
 
-            Console.WriteLine("c: " + c + "\na: " + a);
+            Console.WriteLine($"a = {a} \nb = {b} \nc = {c}");
             Console.ReadLine();
         }
 
