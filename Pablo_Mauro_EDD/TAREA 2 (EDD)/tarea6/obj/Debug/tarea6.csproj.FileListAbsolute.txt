@@ -1,7 +1,0 @@
-D:\DOCUMENTOS\ejerciciosc\tarea6\bin\Debug\tarea6.exe.config
-D:\DOCUMENTOS\ejerciciosc\tarea6\bin\Debug\tarea6.exe
-D:\DOCUMENTOS\ejerciciosc\tarea6\bin\Debug\tarea6.pdb
-D:\DOCUMENTOS\ejerciciosc\tarea6\obj\Debug\tarea6.csprojAssemblyReference.cache
-D:\DOCUMENTOS\ejerciciosc\tarea6\obj\Debug\tarea6.csproj.CoreCompileInputs.cache
-D:\DOCUMENTOS\ejerciciosc\tarea6\obj\Debug\tarea6.exe
-D:\DOCUMENTOS\ejerciciosc\tarea6\obj\Debug\tarea6.pdb
