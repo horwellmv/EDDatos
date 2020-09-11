@@ -13,7 +13,7 @@ namespace Tarea2
             int numero, cifras;
             cifras = 0;
 
-            Console.WriteLine("Ingrese un numero entero");
+            Console.WriteLine("Ingrese un numero entero: ");
             numero = Convert.ToInt32(Console.ReadLine());
 
             while (numero!=0)

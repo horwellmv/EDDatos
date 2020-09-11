@@ -10,23 +10,25 @@ namespace Tarea1
     {
         static void Main(string[] args)
         {
-            int id, password;
+            int id, password, idUser, passUser;
             id = 1234;
             password = 1111;
             Console.WriteLine("Ingrese su numero identificador: ");
-            id = Convert.ToInt32(Console.ReadLine());
-            while (id != 1234)
+            idUser = Convert.ToInt32(Console.ReadLine());
+            while (idUser != id)
             {
                 Console.WriteLine("Identificador incorrecto. Vuelva a ingresarlo: ");
-                id = Convert.ToInt32(Console.ReadLine());
+                idUser = Convert.ToInt32(Console.ReadLine());
             }
+
             Console.WriteLine("Ingrese su contraseña: ");
-            password = Convert.ToInt32(Console.ReadLine());
-            while (password != 1111)
+            passUser = Convert.ToInt32(Console.ReadLine());
+            while (passUser != password)
             {
                 Console.WriteLine("Contraseña incorrecta. Vuelva a ingresarla: ");
-                password = Convert.ToInt32(Console.ReadLine());
+                passUser = Convert.ToInt32(Console.ReadLine());
             }
+
             Console.WriteLine("¡Identificación validada!");
             Console.ReadKey();
         }
