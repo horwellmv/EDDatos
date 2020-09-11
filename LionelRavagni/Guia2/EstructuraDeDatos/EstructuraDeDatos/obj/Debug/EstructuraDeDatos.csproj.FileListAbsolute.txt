@@ -1,7 +1,0 @@
-C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\EstructuraDeDatos.exe.config
-C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\EstructuraDeDatos.exe
-C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\EstructuraDeDatos.pdb
-C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\EstructuraDeDatos.csprojAssemblyReference.cache
-C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\EstructuraDeDatos.csproj.CoreCompileInputs.cache
-C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\EstructuraDeDatos.exe
-C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\EstructuraDeDatos.pdb
