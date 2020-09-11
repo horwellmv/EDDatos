@@ -1,0 +1,7 @@
+D:\DOCUMENTOS\ejerciciosc\tarea13\bin\Debug\tarea13.exe.config
+D:\DOCUMENTOS\ejerciciosc\tarea13\bin\Debug\tarea13.exe
+D:\DOCUMENTOS\ejerciciosc\tarea13\bin\Debug\tarea13.pdb
+D:\DOCUMENTOS\ejerciciosc\tarea13\obj\Debug\tarea13.csprojAssemblyReference.cache
+D:\DOCUMENTOS\ejerciciosc\tarea13\obj\Debug\tarea13.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\ejerciciosc\tarea13\obj\Debug\tarea13.exe
+D:\DOCUMENTOS\ejerciciosc\tarea13\obj\Debug\tarea13.pdb

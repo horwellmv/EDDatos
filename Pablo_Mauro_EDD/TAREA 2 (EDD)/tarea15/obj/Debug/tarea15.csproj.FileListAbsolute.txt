@@ -1,0 +1,7 @@
+D:\DOCUMENTOS\ejerciciosc\tarea15\obj\Debug\tarea15.csprojAssemblyReference.cache
+D:\DOCUMENTOS\ejerciciosc\tarea15\obj\Debug\tarea15.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\ejerciciosc\tarea15\bin\Debug\tarea15.exe.config
+D:\DOCUMENTOS\ejerciciosc\tarea15\bin\Debug\tarea15.exe
+D:\DOCUMENTOS\ejerciciosc\tarea15\bin\Debug\tarea15.pdb
+D:\DOCUMENTOS\ejerciciosc\tarea15\obj\Debug\tarea15.exe
+D:\DOCUMENTOS\ejerciciosc\tarea15\obj\Debug\tarea15.pdb

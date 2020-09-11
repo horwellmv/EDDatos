@@ -1,0 +1,7 @@
+D:\-DOCUMENTOS-\ejerciciosc\ejemplo\ejemplo\bin\Debug\ejemplo.exe.config
+D:\-DOCUMENTOS-\ejerciciosc\ejemplo\ejemplo\bin\Debug\ejemplo.exe
+D:\-DOCUMENTOS-\ejerciciosc\ejemplo\ejemplo\bin\Debug\ejemplo.pdb
+D:\-DOCUMENTOS-\ejerciciosc\ejemplo\ejemplo\obj\Debug\ejemplo.csprojAssemblyReference.cache
+D:\-DOCUMENTOS-\ejerciciosc\ejemplo\ejemplo\obj\Debug\ejemplo.csproj.CoreCompileInputs.cache
+D:\-DOCUMENTOS-\ejerciciosc\ejemplo\ejemplo\obj\Debug\ejemplo.exe
+D:\-DOCUMENTOS-\ejerciciosc\ejemplo\ejemplo\obj\Debug\ejemplo.pdb
