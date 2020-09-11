@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Fork\EDDatos\EzequielQuispe\EzequielQuispe\obj\Debug\EzequielQuispe.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fork\EDDatos\EzequielQuispe\EzequielQuispe\obj\Debug\EzequielQuispe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fork\EDDatos\EzequielQuispe\EzequielQuispe\bin\Debug\EzequielQuispe.exe.config
+C:\Users\User\source\repos\Fork\EDDatos\EzequielQuispe\EzequielQuispe\bin\Debug\EzequielQuispe.exe
+C:\Users\User\source\repos\Fork\EDDatos\EzequielQuispe\EzequielQuispe\bin\Debug\EzequielQuispe.pdb
+C:\Users\User\source\repos\Fork\EDDatos\EzequielQuispe\EzequielQuispe\obj\Debug\EzequielQuispe.exe
+C:\Users\User\source\repos\Fork\EDDatos\EzequielQuispe\EzequielQuispe\obj\Debug\EzequielQuispe.pdb
